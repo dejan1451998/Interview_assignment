@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interview assignment</string>
+    <string name="title">News</string>
+    <string name="home">Home</string>
+    <string name="sport">Sports</string>
+    <string name="tech">Tech</string>
+</resources>
